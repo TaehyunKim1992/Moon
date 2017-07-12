@@ -8,13 +8,10 @@ date:   2016-03-15
 
 excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
 
+comments: true
 ---
 
-
-# 제목
-## 제목2
-### 제목3
-#### 제목4
+## HTML Elements
 
     코드는 이렇게 사용합니다.
 
